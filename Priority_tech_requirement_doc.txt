@@ -1,0 +1,13 @@
+Project Name  : Priority
+Project Type :Maven
+Java Version used :8
+SnapShot Version:0.0.1
+
+Dependencies Used
+Spring Data JPA
+MySQL Driver
+Spring Web
+Spring Dev Tool
+
+Db uses
+mysql
